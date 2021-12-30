@@ -44,3 +44,7 @@ article {
   text-align: center;
   margin: 0 1rem;
 }
+.showImage {
+  width: 95vw;
+  margin: 1rem;
+}
